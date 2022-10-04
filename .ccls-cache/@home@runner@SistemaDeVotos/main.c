@@ -14,7 +14,6 @@ void candidatos() {
 int limitevotos() {
   int voto=0;
   int eleitores = 0;
-  int totalVotos = 0;
   float c1 = 0, c2 = 0, c3 = 0, c4 = 0, nulo = 0, branco = 0;
 
   puts("Defina a quantidade de eleitores: \n");
